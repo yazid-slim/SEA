@@ -7,3 +7,4 @@ tests/test_engine
 *.o
 *.out
 *.log
+docs/report.md
