@@ -55,6 +55,6 @@ Le thread principal est le seul à lire `stdin` et à écrire les messages. Chaq
 | `src/main.c` | Démarrage, boucle de jeu et nettoyage |
 | `tests/test_engine.c` | Tests des règles et du placement |
 | `tests/test_game.sh` | Parties automatiques et erreurs de saisie |
-| `docs/report.md` | Rapport technique |
+| `docs/rapport_projet.pdf` | Rapport technique |
 
 Le PDF du sujet contient des références isolées à un « serveur de chat » et à des « clients ». Ce programme suit l'objectif explicite du sujet et du courriel : un jeu de bataille navale en console, sans réseau.
