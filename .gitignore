@@ -1,0 +1,9 @@
+# Enoncé du professeur (ne pas publier)
+Enoncé de projet SEA.pdf
+
+# Fichiers générés
+battleship
+tests/test_engine
+*.o
+*.out
+*.log
